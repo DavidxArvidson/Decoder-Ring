@@ -1,5 +1,5 @@
 // Write your tests here!
-const caesar = require("../src/caesar");
+const {caesar} = require("../src/caesar");
 const expect = require("chai").expect;
 
 describe("caesar", () => {
@@ -20,7 +20,7 @@ describe("caesar", () => {
 
 describe("caesar", () => {
     it("should return the input decoded properly", () => {
-        const expected = "This is a secret message!";
+        const expected = "this is a secret message!";
         const actual = caesar("bpqa qa i amkzmb umaaiom!", 8, false);
         expect(actual).to.equal(expected);
     });

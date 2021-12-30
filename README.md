@@ -28,6 +28,8 @@ The substitution cipher requires a standard alphabet and a substitution alphabet
 
 ![Substitution Cipher](https://res.cloudinary.com/strive/image/upload/w_1000,h_1000,c_limit/19c12a6ee38ceddd82d75e12edf53189-image.png)
 
+This project was developed as an assignment in the Thinkful.com software engineering course. The HTML and CSS were written by the Thinkful team ahead of time. My contributions were entirely JavaScript.
+
 ## About Me
 
 * [LinkedIn Profile](https://www.linkedin.com/in/david-arvidson/)

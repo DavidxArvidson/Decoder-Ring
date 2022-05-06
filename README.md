@@ -1,4 +1,4 @@
-# Project-Decoder-Ring-1
+# Decoder-Ring
 
 The decoder ring is a app that enables users to encode and decode messages using several different ciphers. 
 

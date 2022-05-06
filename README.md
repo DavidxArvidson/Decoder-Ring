@@ -4,6 +4,9 @@ The decoder ring is an app that enables users to encode and decode messages usin
 
 This project was developed as an assignment in the Thinkful.com software engineering course. The HTML and CSS were written by the Thinkful team ahead of time. I contributed the JavaScript functionality.
 
+The live website is located here:
+* [Live Site](https://davidxarvidson.github.io/Decoder-Ring/)
+
 ![Decoder Ring Home Page](https://res.cloudinary.com/strive/image/upload/w_1000,h_1000,c_limit/7a945612b738d811880b0244ee5ec0a2-image.png)
 
 The Caesar shift is a type of substitution cipher originally used by Julius Caesar to protect messages of military significance. It relies on taking the alphabet and "shifting" letters to the right or left, based on the typical alphabetic order.
